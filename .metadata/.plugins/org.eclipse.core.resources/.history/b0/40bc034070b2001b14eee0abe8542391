@@ -1,0 +1,5 @@
+package com.Teste.Junit.contato;
+
+public class ContatosRepositoryIntegrationTest {
+
+}
